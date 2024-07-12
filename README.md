@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at sachidanandapadhy77@gmail.com
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/15SWNOapSvogmbyrF1_dSDM1b1Ro8iOPW/view)
+- 📄 Know about my experiences [here]()
 
 - ⚡ Fun fact "As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"
 
@@ -37,8 +37,8 @@
 
 <br>
 <h3 align="left">My Performances</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek-13&show_icons=true&locale=en&layout=compact" alt="abhisek-13" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachidanandapadhy&show_icons=true&locale=en&layout=compact" alt="sachidanandapadhy" /> </p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=abhisek-13&show_icons=true&locale=en" alt="abhisek-13" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=sachidanandapadhy&show_icons=true&locale=en" alt="sachidanandapadhy" /> </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek-13&" alt="abhisek-13" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachidanandapadhy&" alt="sachidanandapadhy" /></p>
