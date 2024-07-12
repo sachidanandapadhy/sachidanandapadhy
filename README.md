@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachidanandapadhy&label=Profile%20views&color=0e75b6&style=flat" alt="sachidanandapadhy" /> </p>
 
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" align="right" width = 370px />
 
-- 🔭 I’m currently working on MLOPs in Generative AI.
+- 🔭 I’m currently working on Frontend Development.
 
-- 🌱 I’m currently learning Generative AI, Langchain, LLM, and Transformers.
+- 🌱 I’m currently learning Backend development.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/abhisek-13?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/sachidanandapadhy?tab=repositories)
 
-- 📫 You can reach me at abhisekmaharana9861@gmail.com
+- 📫 You can reach me at sachidanandapadhy77@gmail.com
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/15SWNOapSvogmbyrF1_dSDM1b1Ro8iOPW/view)
 
