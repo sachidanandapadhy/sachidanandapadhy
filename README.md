@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at sachidanandapadhy77@gmail.com
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/187693QZBQmxxBN0sHrzzut9WvAodIM4g/view?usp=drive_link)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/187693QZBQmxxBN0sHrzzut9WvAodIM4g/view?usp=drive_link](https://drive.google.com/file/d/1ZKLnDZpDeMGpLeKLb9WREDhDdhMiXE8k/view?usp=drive_link))
 
 - ⚡ Fun fact "As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"
 
